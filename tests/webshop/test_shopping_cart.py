@@ -70,3 +70,4 @@ def test_add_item_to_cart(mocker, db, seeds, cart):
 #"fröer", 25
 
 # Item-klass: name, price
+# Hej
